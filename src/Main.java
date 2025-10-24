@@ -13,6 +13,7 @@ public class Main {
             data[i] = temp;
         }
         System.out.print("Hasil setelah diurutkan: ");
+        System.out.println("halo");
         for (int num : data) {
             System.out.print(num + " ");
         }
